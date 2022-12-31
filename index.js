@@ -1,1 +1,2 @@
-const myLove ='glory'
+const myLove = "glory";
+const myMother = "kemi";
