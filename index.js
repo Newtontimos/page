@@ -1,0 +1,1 @@
+const myLove ='glory'
